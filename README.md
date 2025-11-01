@@ -13,39 +13,29 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["TypeScript", "Javascript", "Python", "Dart"],
-    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
+const loser = {
+   
+    code: [ "Javascript", "Python"],
+    askMeAbout: ["web dev", "bug hunter"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js"],
-            css: ["Sass", "Tailwind", "Bootstrap"],
-            uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
+            css: [ "Tailwind", "Bootstrap"]
         },
         backEnd: {
-            js: ["Node", "Express", "NestJS"],
-            python: ["Flask"],
+            js: ["Node", "Express"]            
         },
-        mobileApp: {
-            crossPlatform: ["Flutter"],
-        },
-        devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
-        cloudServices: {
-            aws: ["AWS Fargate", "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
-        },
-        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "redis"],
-        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
-        generativeAI: ["GPT", "Vectorization"],
+        devOps: ["podman"],
+        databases: ["PostgreSQL"],
+        misc: ["Socket.IO", "REST APIs"]
     },
     architecture: {
         frontEnd: ["SPA", "SSR"],
-        backEnd: ["microservices", "monolithic", "serverless"],
-        devOps: ["CloudFormation", "Serverless Framework"],
-        databases: ["Relational", "NoSQL", "In-memory"],
+        backEnd: ["monolithic"],
+        databases: ["Relational"],
     },
-    currentFocus: "Leading a way in generative AI innovation",
-    funFact: "I can debug faster with a coffee in hand!"
+skill:['playwright','pyqt6','owasp top 10 & api owasp 10'],
+    currentFocus: 'Currently seeking a Web Penetration Tester role'
 };
 ```
 
