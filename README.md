@@ -1,4 +1,3 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ29uanU3eWVxMW13c2IxYTU5azZrYXUzb20yaDZjcmZ6ZWNrYWdyayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l22ysLe54hZP0wubek/giphy.gif" width="230">
 <p><em>Technical Lead at <a href="https://fliki.ai/">Fliki.AI
 </a><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ29uanU3eWVxMW13c2IxYTU5azZrYXUzb20yaDZjcmZ6ZWNrYWdyayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l22ysLe54hZP0wubek/giphy.gif" width="30"> 
