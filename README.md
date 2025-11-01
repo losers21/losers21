@@ -1,9 +1,8 @@
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ29uanU3eWVxMW13c2IxYTU5azZrYXUzb20yaDZjcmZ6ZWNrYWdyayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l22ysLe54hZP0wubek/giphy.gif" width="230">
-<p><em>Technical Lead at <a href="https://fliki.ai/">Fliki.AI
+
 
 <img align='left' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmt4Y25vaGNxOXAxaGJ2ZmJ0bHM3OWo3emhxeW1va3BucDlkY28yNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KZSRSzOAoe8gcxBof4/giphy.gif" width="230">
 
-<div class="tenor-gif-embed" data-postid="18524323" data-share-method="host" data-aspect-ratio="1.01587" data-width="100%"><a href="https://tenor.com/view/trollface-troll-face-sad-trollface-welp-gif-18524323">Trollface Sad Trollface GIF</a>from <a href="https://tenor.com/search/trollface-gifs">Trollface GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
