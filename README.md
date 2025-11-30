@@ -3,7 +3,7 @@
 
 <img align='left' src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGZwNmwyY3R3YWxnbHBlaTA2cWp3djd6eXpuZDR4aWs5eG5jc2xzeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9XXW1Utg8QnR4W9lfp/giphy.gif" width="230">
 
-
+<br>
 
 I'm Mahmoud from Egypt, and I'm pursuing a job as a Bug Hunter in any company
 
